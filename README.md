@@ -11,7 +11,7 @@ description: BLE characteristics for iQOS 2.4+
 The Battery Data Goes Here: 
 
 {% code-tabs %}
-{% code-tabs-item title="BLE BATTERY CHARACTERISTIC" %}
+{% code-tabs-item title="BLE iQOS . STATUS CHARACTERISTIC" %}
 ```text
 f8a54120-b041-11e4-9be7-0002a5d5c51b
 ```
