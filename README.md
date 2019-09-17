@@ -4,6 +4,8 @@ description: BLE characteristics for iQOS 2.4+
 
 # Getting the Values
 
+{% page-ref page="code-examples.md" %}
+
 ## **BLE** _Characteristics_
 
 The Battery Data Goes Here: 
