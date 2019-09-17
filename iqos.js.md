@@ -4,6 +4,12 @@ description: an iQOS library written in JavaScript to talk with iQOS over BLE.
 
 # iQOS.js
 
+{% embed url="https://codesandbox.io/s/iqosjs-demo-cdt6r" caption="iQOS.js CodeSandbox " %}
+
+{% hint style="info" %}
+**iQOS.js not works** over **iframe, so to play with it go here** [**https://cdt6r.csb.app/**](https://cdt6r.csb.app/)\*\*\*\*
+{% endhint %}
+
 {% embed url="https://github.com/modmyiqos/iQOS.js" caption="Github Repository" %}
 
 ### How to Use
