@@ -1,4 +1,4 @@
-# Reversing the PMI Apps
+# Reversing the iQOS Apps
 
 {% embed url="https://github.com/modmyiqos/reverse-engineering" %}
 
