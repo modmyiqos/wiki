@@ -2,7 +2,7 @@
 description: The Code Examples For "Getting the values" page.
 ---
 
-# Code Examples
+# \[BLE\] Code Examples
 
 ## Getting Battery Values \(using JavaScript\)
 
@@ -21,6 +21,4 @@ Tested only on iQOS 2.4+ and Chrome 70
 ## Getting Battery Values \(using Python\)
 
 > Will be soon...
-
-
 
