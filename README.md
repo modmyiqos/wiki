@@ -2,7 +2,7 @@
 description: BLE characteristics for iQOS 2.4+
 ---
 
-# Getting the Values
+# \[BLE\] Getting the Values
 
 {% page-ref page="code-examples.md" %}
 
@@ -28,7 +28,7 @@ description: BLE characteristics for iQOS 2.4+
 | 00001800-0000-1000-8000-00805f9b34fb | Generic Access |
 | daebb240-b041-11e4-9e45-0002a5d5c51b | UUID\_RRP\_SERVICE |
 
-The Battery Data Goes Here: 
+The Battery Data Goes Here:
 
 {% code title="UUID\_BATTERY\_INFORMATION" %}
 ```text
@@ -47,6 +47,4 @@ When the _**Holder**_ inside the _**Charger**_, the length of value **is 7 bytes
 5. ~~WE DONT KNOW~~
 6. ~~WE DONT KNOW~~
 7. **If holder not inside this byte will not exist**, but if it exists the holder on charge, and _**this is an battery value**_ **\(on** _**iQOS 2.4+ it will be 0 or 100 only!**_**\)**
-
-
 
