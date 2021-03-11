@@ -10,16 +10,17 @@ description: gathering com.pmi.iqossdk from apk
 
 ```
 git clone https://github.com/modmyiqos/reverse-engineering.git
+cd reverse-engineering
+yarn install
 ```
 
 {% hint style="info" %}
-Repository it self does not contain decompiled code, but it has scripts/tools to make it automatically
+The repository itself does not contain decompiled code, but it has scripts/tools to make it automatically
 {% endhint %}
 
 #### [Run decompilation process](https://github.com/modmyiqos/reverse-engineering#get-compmiiqossdk)
 
 ```text
-cd reverse-engineering
 yarn get:iqossdk
 ```
 
