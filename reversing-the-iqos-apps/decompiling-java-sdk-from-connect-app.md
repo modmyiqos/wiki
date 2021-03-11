@@ -9,7 +9,7 @@ description: gathering com.pmi.iqossdk from apk
 #### Clone Reverse Engineering repository
 
 ```
-$ git clone https://github.com/modmyiqos/reverse-engineering.git
+git clone https://github.com/modmyiqos/reverse-engineering.git
 ```
 
 {% hint style="info" %}
@@ -19,7 +19,8 @@ Repository it self does not contain decompiled code, but it has scripts/tools to
 #### [Run decompilation process](https://github.com/modmyiqos/reverse-engineering#get-compmiiqossdk)
 
 ```text
-$ yarn get:iqossdk
+cd reverse-engineering
+yarn get:iqossdk
 ```
 
 If decompiling was successful you should see output like this:
