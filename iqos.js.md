@@ -6,9 +6,13 @@ description: an iQOS library written in JavaScript to talk with iQOS over BLE.
 
 {% embed url="https://codesandbox.io/s/iqosjs-demo-cdt6r" caption="iQOS.js CodeSandbox " %}
 
+{% hint style="info" %}
+**iQOS.js not works** over **iframe, so to play with it go here** [**https://cdt6r.csb.app/**](https://cdt6r.csb.app/)\*\*\*\*
+{% endhint %}
+
 {% embed url="https://github.com/modmyiqos/iQOS.js" caption="Github Repository" %}
 
-## How to Use
+### How to Use
 
 * You will need to install this library:
   * **yarn**: `yarn add @0x77/iqos`
