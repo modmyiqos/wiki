@@ -4,7 +4,7 @@ description: Devices Description
 
 # Devices
 
-Information from [`com.pmi.iqossdk.DeviceType`](reversing/) java interface and public resources
+Information from [`com.pmi.iqossdk.DeviceType`](../reversing/) java interface and public resources
 
 | Full Name | Code Name | `DeviceType` |
 | :--- | :--- | :--- |

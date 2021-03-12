@@ -1,7 +1,8 @@
 # Table of contents
 
 * [\[BLE\] Getting the Values](README.md)
-* [Devices](devices.md)
+* [Devices](devices/README.md)
+  * [ChargerSystemStatusInfo](devices/chargersystemstatusinfo.md)
 * [Reversing the iQOS Apps](reversing/README.md)
   * [Decompiling Java SDK from Connect App](reversing/connect-app.md)
 * [\[BLE\] Code Examples](code-examples.md)
