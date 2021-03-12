@@ -15,7 +15,7 @@ yarn install
 ```
 
 {% hint style="info" %}
-The repository itself does not contain decompiled code, but it has scripts/tools to make it automatically
+The repository itself does not contain decompiled code, but it has scripts/tools to decompile it automatically
 {% endhint %}
 
 #### [Run decompilation process](https://github.com/modmyiqos/reverse-engineering#get-compmiiqossdk)

@@ -8,7 +8,7 @@ description: >-
 
 
 
-{% page-ref page="devices/" %}
+{% page-ref page="device/" %}
 
 {% page-ref page="join-our-discord.md" %}
 

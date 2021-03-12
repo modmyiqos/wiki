@@ -1,0 +1,22 @@
+---
+description: From com.pmi.iqossdk.connection.ble.service
+---
+
+# Bluetooth 4.0 \(BLE\)
+
+## Characteristics
+
+| Name | UUID |
+| :--- | :--- |
+| DEVICE\_STATUS\_CHAR | `ecdfa4c0-b041-11e4-8b67-0002a5d5c51b` |
+| CLIENT\_CHARACTERISTIC\_CONFIG | `00002902-0000-1000-8000-00805f9b34fb` |
+| DEVICE\_BATTERY\_CHAR | `f8a54120-b041-11e4-9be7-0002a5d5c51b` |
+| FW\_UPGRADE\_CONTROL | `fe272aa0-b041-11e4-87cb-0002a5d5c51b` |
+| FW\_UPGRADE\_STATUS | `15c32c40-b042-11e4-a643-0002a5d5c51b` |
+| RAB\_SERVICE | `1B5F798-BE55-42BC-8AA8-0025B903DC3B` |
+| RAB\_SERVICE\_RET | `43E72E2F-3840-4BDE-B141-3697176BE76B` |
+| RRP\_SERVICE | `DAEBB240-B041-11E4-9E45-0002A5D5C51B` |
+| SCP\_CONTROL\_POINT | `e16c6e20-b041-11e4-a4c3-0002a5d5c51b` |
+
+
+
