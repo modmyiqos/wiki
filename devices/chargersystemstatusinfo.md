@@ -6,7 +6,7 @@ description: ChargerSystemStatusInfo class from com.pmi.iqossdk
 
 ## Preview
 
-_WARNING: Code down below is a PMI property_
+\_\_[_WARNING: Code down below is a PMI property_](../reversing/)\_\_
 
 ```text
 public ChargerSystemStatusInfo(byte[] bArr) {
