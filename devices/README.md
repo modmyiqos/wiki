@@ -12,5 +12,7 @@ Information from [`com.pmi.iqossdk.DeviceType`](../reversing/) java interface an
 | iQOS 3.0 | `CORTEZ` | DEVICE\_TYPE\_3\_0\_CORTEZ |
 | iQOS 3.0 Duo | `VESPUCCI` | DEVICE\_TYPE\_3\_0\_VESPUCCI |
 
+{% page-ref page="chargersystemstatusinfo.md" %}
+
 
 
