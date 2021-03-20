@@ -7,6 +7,8 @@ description: >-
 
 # Welcome 👋
 
+
+
 {% page-ref page="device/" %}
 
 {% page-ref page="join-our-discord.md" %}
