@@ -2,7 +2,7 @@
 description: an iQOS library written in JavaScript to talk with iQOS over BLE.
 ---
 
-# iQOS.js
+# iQOS.js \[DEPRECATED\]
 
 {% embed url="https://codesandbox.io/s/iqosjs-demo-cdt6r" caption="iQOS.js CodeSandbox " %}
 

@@ -7,6 +7,6 @@
   * [ChargerSystemStatusInfo](device/chargersystemstatusinfo.md)
 * [Reversing the iQOS Apps](reversing/README.md)
   * [Decompiling Java SDK from Connect App](reversing/connect-app.md)
-* [iQOS.js](iqos.js.md)
+* [iQOS.js \[DEPRECATED\]](iqos.js.md)
 * [Join Our Discord](join-our-discord.md)
 

@@ -1,8 +1,7 @@
 ---
 description: >-
   Welcome, here is some information about iQOS internals, like BLE
-  specification/API and much more. Here we trying to do modding, custom
-  firmware, and reverse engineering of iQOS
+  specification/API and much more.
 ---
 
 # Welcome 👋
